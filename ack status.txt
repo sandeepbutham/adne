@@ -1,0 +1,13 @@
+SOA Approver level will be populated for new cases or existing cases are that processed 
+by BOT after the implementation.
+
+
+
+
+"STATUS": "Sales document succesfully released."
+
+
+
+
+
+"Credit release Failed; Order value greater than allowed deviation."
